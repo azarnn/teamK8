@@ -17,3 +17,6 @@ Then open file assay.ipynb and run.
 To test data preparation script you need additionally download file ddprep.ipynb
 to folder teamK8 on your disk. Also you need to download files weather_daily_darksky.csv
 from folder teamK8/data and all files from folder teamK8/data/daily_dataset.
+
+Of course, you can do all that steps above much shorter - simply download the whole repo
+in one zip file :))
