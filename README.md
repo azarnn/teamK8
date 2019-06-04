@@ -9,9 +9,10 @@ The analytical report is in the file /doc/ReportK8.pdf (Ru).
 
 To test the analitical script, create folder teamK8 anywhere on disk, then create
 folder teamK8/data. Download jupyter notebook's file assay.ipynb from this repository
-to folder teamK8 on your disk. Download data files daily_energy.csv, daily_weather.csv,
-informations_households.csv, weekdays.csv from folder teamK8/data in this repo to
-to folder teamK8/data on your disk. Then open file assay.ipynb and run. 
+to folder teamK8 on your disk. Download data files daily_energy.zip, daily_weather.csv,
+informations_households.csv, weekdays.csv from folder teamK8/data in this repo to 
+folder teamK8/data on your disk. Unzip file data/daily_energy.zip to teamK8/data/daily_energy.csv.
+Then open file assay.ipynb and run. 
 
 To test data preparation script you need additionally download file ddprep.ipynb
 to folder teamK8 on your disk. Also you need to download files weather_daily_darksky.csv
