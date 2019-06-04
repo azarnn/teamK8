@@ -12,6 +12,6 @@ to folder teamK8 on your disk. Open and run file fmerge.ipynb to prepare file
 /data/daily_energy.csv. Then you can open and test file assay.ipynb. 
 
 To test data preparation script ddprep.ipynb you need 112 data files block_0.csv .. block_111.csv
-from “Smart meters in London” (https://www.kaggle.com/jeanmidev/smart-meters-in-london) in folder 
+from dataset “Smart meters in London” (https://www.kaggle.com/jeanmidev/smart-meters-in-london) in folder 
 teamK8/data/daily_dataset on your disk. 
 
